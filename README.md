@@ -1,5 +1,7 @@
 # KYOSS Topic Manager
 
+[![Build Status](https://travis-ci.org/KYOSS/kyoss-topic-manager.svg)](https://travis-ci.org/KYOSS/kyoss-topic-manager)
+
 A web application to allow members of KYOSS to vote on topics for meetings.
 
 Collaborate via the 
